@@ -1,0 +1,23 @@
+h1
+{
+    background-color: cornsilk;
+    border:red
+}
+table{
+    border-color: rgb(119, 0, 255);
+    border-right: teal;
+    
+    
+    
+    
+}
+body{
+    background-color: slategray;
+}
+table ,th,td 
+{
+    background-color: tomato;
+    border-width: 5px;
+    border-color: chartreuse;
+    border-style: solid;
+}
